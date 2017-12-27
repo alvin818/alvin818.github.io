@@ -2,7 +2,7 @@
   "name": "my-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alvin818.github.io/Personal-Website/",
+  "homepage": "https://alvin818/alvin818.github.io",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
